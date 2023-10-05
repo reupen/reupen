@@ -1,7 +1,7 @@
-### Hello 👋
+Hello 👋
 
 I’m a Python developer, from London, UK.
 
-I also like photography – here’s a photo of the Lake District:
+Here’s a photo of the moon from <a href="https://photos.reupen.uk">my photography website</a>:
 
-<img src="https://user-images.githubusercontent.com/12693549/117585198-0f08f780-b109-11eb-853c-527470226162.jpg" width="700" alt="Elter Water, Wetherlam and Great Carrs" title="Elter Water, Wetherlam and Great Carrs">
+<img src="https://github.com/reupen/reupen/assets/12693549/a585f85e-cc13-4e2c-8ca4-7ad9cf437a72" width="700" alt="The moon">
